@@ -17,6 +17,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyLufe97&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
+<div align="center">  
+  <img width="100%" height="50%" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" /> 
+</div> 
+
+
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
