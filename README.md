@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Fernando</h1>
 <h3 align="center">A passionate fullstack developer from Colombia and UU.EE</h3>
 
-![](https://camo.githubusercontent.com/9b0a69e63ea560a6a78a52ae31ab42eae7f4defe6471b7151b44dcc5b3e187b2/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d313931393730266865696768743d3132302673656374696f6e3d686561646572)
+![](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)
 
 
 
