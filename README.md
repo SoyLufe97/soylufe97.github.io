@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis Fernando</h1>
 <h3 align="center">A passionate fullstack developer from Colombia and UU.EE</h3>
 
+<p align="center">
 ![](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)
+</p>
 
 
 
